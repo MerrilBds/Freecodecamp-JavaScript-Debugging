@@ -1,5 +1,5 @@
 # Freecodecamp-JavaScript-Debugging
-série d'appretinssage via freecodecamp
+série d'apprentissage via freecodecamp
 # Debugging
 
 Debugging is the process of going through your code, finding any issues, and fixing them.
